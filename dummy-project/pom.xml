@@ -72,8 +72,6 @@
 	</build>
 
 	<dependencies>
-		<dependency>
-        </dependency>
         <dependency>
             <groupId>org.mule.connectors</groupId>
             <artifactId>mule-http-connector</artifactId>
